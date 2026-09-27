@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+
+
+
+	<!--EDIT BELOW THIS LINE-->
+
+	<key>CFBundleIdentifier</key>
+	<string>website.YourTitleGoesHere</string>
+
+	<key>CFBundleName</key>
+	<string>Your Title Goes Here</string>
+
+	<key>URL</key>
+	<string>http://example.com</string>
+
+	<!--EDIT ABOVE THIS LINE-->
+
+
+
+
+	<!--START OPTIONAL SETTINGS-->
+
+	<key>MinimumWebKitVersion</key>
+	<string>615.1.1</string>
+
+	<key>MinimumWindowWidth</key>
+	<string>670</string>
+
+	<key>MinimumWindowHeight</key>
+	<string>500</string>
+
+	<key>MaximumWindowWidth</key>
+	<string></string>
+
+	<key>MaximumWindowHeight</key>
+	<string></string>
+
+	<key>TerminateAfterLastWindowClosed</key>
+	<true/>
+
+	<key>InAppURLs</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+
+	<key>EnableShareMenuItem</key>
+	<false/>
+
+	<key>EnablePrintMenuItem</key>
+	<true/>
+
+	<key>EnableHistoryMenu</key>
+	<true/>
+
+	<key>AllowDeveloperTools</key>
+	<false/>
+
+	<key>AppMenuItems</key>
+	<array>
+	</array>
+
+	<key>FileMenuItems</key>
+	<array>
+	</array>
+
+	<key>ViewMenuItems</key>
+	<array>
+	</array>
+
+	<key>HelpURL</key>
+	<string></string>
+
+	<!--END OPTIONAL SETTINGS-->
+
+
+
+
+	<key>CFBundleExecutable</key>
+	<string>WebApp</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon.icns</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.9</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>
